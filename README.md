@@ -28,7 +28,7 @@ Role: Full Stack Engineer
 Focus: Open Source / Web Infrastructure / Developer Tools
 
 Stack:
-Python / JavaScript / Vue / Cloudflare Workers
+Python / JavaScript / Vue / ...
 
 Mission:
 Build tools that make the internet better.
