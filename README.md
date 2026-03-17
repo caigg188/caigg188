@@ -39,7 +39,7 @@ Build tools that make the internet better.
 # ⚙️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,vue,nodejs,docker,linux,bash,git,github,vscode&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,vue,nodejs,html,css,java,c,docker,linux,bash,git,github,vscode&perline=6"/>
 </p>
 
 ---
