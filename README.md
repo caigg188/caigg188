@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Jacky</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&color=00F7FF&center=true&vCenter=true&width=750&lines=Open+Source+Developer;Full+Stack+Engineer;Python+%7C+Vue+%7C+Cloudflare+Workers;Building+Tools+For+The+Internet" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&color=00F7FF&center=true&vCenter=true&width=750&lines=Open+Source+Developer;Full+Stack+Engineer;Building+Tools+For+The+Internet" />
 </p>
 
 <p align="center">
@@ -60,26 +60,6 @@ Build tools that make the internet better.
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=caigg188&repo=vback&theme=tokyonight&hide_border=true"/>
 </a>
 
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=caigg188&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caigg188&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=caigg188&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
