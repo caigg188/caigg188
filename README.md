@@ -25,8 +25,6 @@
 
 Name: Jacky
 Role: Full Stack Engineer
-Focus: Open Source / Web Infrastructure / Developer Tools
-
 Stack:
 Python / JavaScript / Vue / ...
 
