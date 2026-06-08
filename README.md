@@ -18,6 +18,22 @@
 
 ---
 
+# 🧊 3D Contribution Stats
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caigg188&theme=tokyonight"/>
+</p>
+
+---
+
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
 # 🧠 About Me
 
 ```bash
@@ -41,22 +57,6 @@ Build tools that make the internet better.
 </p>
 ---
 
-# 🧊 3D Contribution Stats
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caigg188&theme=tokyonight"/>
-</p>
-
----
-
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
 
 # 🌍 Connect
 
