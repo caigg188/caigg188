@@ -49,7 +49,6 @@ Build tools that make the internet better.
 <p align="center">
 
 <a href="https://github.com/caigg188/LDStatusPro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=caigg188&repo=LDStatusPro&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/chen-zeong/DTV">
