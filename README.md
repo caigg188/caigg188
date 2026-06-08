@@ -49,13 +49,6 @@ Build tools that make the internet better.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=caigg188&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
-
----
 
 # 🐍 Contribution Snake
 
