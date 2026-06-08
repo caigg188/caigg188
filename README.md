@@ -41,26 +41,6 @@ Build tools that make the internet better.
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,ts,vue,nodejs,html,css,java,c,docker,linux,bash,git,github,vscode&perline=6"/>
 </p>
-
----
-
-# 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/caigg188/LDStatusPro">
-</a>
-
-<a href="https://github.com/chen-zeong/DTV">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chen-zeong&repo=DTV&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/caigg188/vback">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=caigg188&repo=vback&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
 ---
 
 # 🧊 3D Contribution Stats
